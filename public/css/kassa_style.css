@@ -1,0 +1,174 @@
+	body {
+	  font: 13px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+	  color: #404040;
+	  background: #ef9949;
+   }
+   .toolbar {
+		width: 800px;
+		height: 70px;	
+	}
+	
+	.clientbar {
+	
+	}
+	
+	.clientbar input {
+		display: -moz -inline -stack;
+		display: inline-block;
+		font: 20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+		text-align: center;
+		margin: 1px;
+		width: 300px;
+		height: 30px;
+	}
+	
+	.pricebar {
+		position: absolute;
+		left: 725px;
+		top: 140px;
+		width: 800px;
+		height: 500px;	
+	}
+	
+	.intotalbar {
+		position: absolute;
+		left: 750px;
+		top: 35px;
+		width: 800px;
+		height: 500px;	
+	
+	}
+	
+	.input_class {
+	    font: 25px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+		height: 30px;
+		width: 270px;
+	}
+	
+	.intotalbar span {
+		display: -moz -inline -stack;
+		display: inline-block;
+		font: 20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+		text-align: center;
+		margin: 1px;
+	}
+	
+	.intotalbar-button {
+		height: 50px;
+		width: 130px;
+		padding: 3px;
+		background-color: #E4E2D5
+		
+    }
+	
+	.intotalbar-button-hover {
+		display: -moz -inline -stack;
+		display: inline-block;
+		color: white;
+		font: 20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+		text-align: center;
+		margin: 1px;
+		height: 50px;
+		width: 130px;
+		cursor: pointer;
+		background-color: #E4E2D5
+	}
+	
+	.intotalbar-price {
+		height: 50px;
+		width: 130px;
+		padding: 3px;
+		background-color: #FADE7D
+    }
+	
+	.pricebar-upper-text {
+		font: 20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+		text-align: center;
+		height: 50px;
+		width: 300px;
+	}
+	
+	.pricebar span {
+		display: -moz -inline -stack;
+		display: inline-block;
+		font: 20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+		text-align: center;
+		margin: 1px;
+		background-color: #E4E2D5
+	}
+
+    .pricebar-left {
+		height: 50px;
+		width: 250px;
+		padding: 3px;
+	}
+	
+	.reset-button {
+		display: -moz -inline -stack;
+		display: inline-block;
+		font: 20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+		text-align: center;
+		margin: 1px;
+		}
+	
+	.reset-button-hover {
+		display: -moz -inline -stack;
+		display: inline-block;
+		color: white;
+		font: 20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+		text-align: center;
+		margin: 1px;
+		cursor: pointer;
+	}
+	
+	.pricebar-right {
+		height: 50px;
+		width: 50px;
+		padding: 3px;
+	}
+	
+    .pricebar-right-hover {
+		height: 50px;
+		width: 50px;
+		border: 1px solid #316AC5;
+		background-color: #C1D2EE;
+		padding: 3px;
+		cursor: pointer;
+	}
+	
+	.pricebar-left-hover {
+		height: 50px;
+		width: 250px;
+		border: 1px solid #316AC5;
+		background-color: #C1D2EE;
+		padding: 3px;
+		cursor: pointer;
+	}
+	
+   .toolbar span {
+		display: -moz -inline -stack;
+		display: inline-block;
+		font: 20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+		text-align: center;
+		height: 30px;
+		width: 130px;
+		margin: 1px;
+		background-color: #E4E2D5
+   }
+   
+   .toolbar span:hover {
+		border: 1px solid #316AC5;
+		background-color: #C1D2EE;
+		padding: 2px;
+		cursor: pointer;
+   }
+   
+   .toolbar-button {
+		padding: 5px;
+   }
+   .toolbar-button-hover {
+		border: 1px solid #316AC5;
+		background-color: #C1D2EE;
+		padding: 2px;
+		cursor: pointer;
+   }
